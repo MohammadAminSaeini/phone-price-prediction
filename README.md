@@ -36,4 +36,6 @@ The dataset contains 2,000 records with 21 features. Key attributes include:
 - **SVM Classifier:** Achieved the highest performance (typically >95% accuracy) after hyperparameter tuning using RBF kernel.
 - **Feature Importance:** RAM, Battery Power, and Pixel resolution were the most significant predictors of price.
 
-  
+## Let's Connect
+* **LinkedIn**: [Let's network!](https://www.linkedin.com/in/mohammad-amin-saeini)
+* **Kaggle**: [Check out on Kaggle!](https://www.kaggle.com/code/mohammadaminsaeini/mobile-phone-price-range-classification)
